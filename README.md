@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Vítor Barbosa!
 
 ## 🎯 About Me
-🎓 I'm currently a **Master’s student in Informatics Engineering at ISCTE**, after completing my **Bachelor’s** at the same university.  
+🎓 I'm currently a **Master’s student in Computer Engineering at ISCTE**, after completing my **Bachelor’s** at the same university.  
 🎨 I also have a background in **Graphic Design** from GRACOM, blending creativity with technology.
 
 💡 I'm a passionate and curious developer who loves building interactive, impactful, and user-friendly projects.  
@@ -63,8 +63,8 @@ Here’s a taste of what I’ve been working on:
 ---
 
 ## 🎓 Education
-- 🎓 **Master’s Degree** in Informatics Engineering, ISCTE (2024 - Present)
-- 🎓 **Bachelor’s Degree** in Informatics Engineering, ISCTE (2021 - 2024)
+- 🎓 **Master’s Degree** in Computer Engineering, ISCTE (2024 - Present)
+- 🎓 **Bachelor’s Degree** in Computer Engineering, ISCTE (2021 - 2024)
 - 🖌️ **Graphic Design Course**, GRACOM (2016)
 
 ---
