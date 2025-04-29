@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Vítor Barbosa!
+# 👋 Hello world, I'm Vitor Barbosa!
 
 ## 🎯 About Me
 🎓 I'm currently a **Master’s student in Computer Engineering at ISCTE**, after completing my **Bachelor’s** at the same university.  
