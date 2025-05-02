@@ -12,7 +12,7 @@ From web applications to game development and machine learning experiments — I
 ## 🚀 Projects Showcase
 Here’s a taste of what I’ve been working on:
 
-- 🎮 ** [Scriptown (A Pokémon-Inspired Site to Introduce Myself)](https://bonviniv.github.io)**
+- 🎮 **[Scriptown (A Pokémon-Inspired Site to Introduce Myself)](https://bonviniv.github.io)**
 - 🧱 **[Tetris Reloaded (Modern Tetris with Cloud Leaderboards)](https://bonviniv.github.io/tetris.html)**
 - 🕹️ **[GameFlix (Retro Gaming Platform with Emulation)](https://bonviniv.github.io/gameflix.html)**
 - 🧩 **[Hangman Battle Royale (Multiplayer Hangman Game)](https://bonviniv.github.io/hanging.html)**
