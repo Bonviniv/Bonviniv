@@ -17,6 +17,7 @@ Here’s a taste of what I’ve been working on:
 - 🕹️ **[GameFlix (Retro Gaming Platform with Emulation)](https://bonviniv.github.io/gameflix.html)**
 - 🧩 **[Hangman Battle Royale (Multiplayer Hangman Game)](https://bonviniv.github.io/hanging.html)**
 - 💼 **[StackHunt (Developer-Focused Job Search Tool)](https://bonviniv.github.io/stackhunt.html)**
+- 📈 **[Stock Forecast (AI-Powered Stock Market Predictor)](https://bonviniv.github.io/public/stock-forecast/)**
 
 👉 Explore even more on my [full project page](https://bonviniv.github.io/projects.html)!
 
